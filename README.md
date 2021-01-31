@@ -1,2 +1,2 @@
-# DL_Pneumonia_detection
+# Pneumonia Detection
 Detection of pneumonia in pediatric patients.
