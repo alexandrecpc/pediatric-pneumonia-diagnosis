@@ -3,7 +3,7 @@
 Detection of pneumonia in pediatric patients.
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/cam_pneumonia.png" />
+  <img alt="Grad CAM" title="#Grad CAM" src="src/assets/cam_pneumonia.png" />
 </h1>
 
 <h3 align="center"> 
