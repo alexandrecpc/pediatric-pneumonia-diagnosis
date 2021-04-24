@@ -7,7 +7,7 @@ Detection of pneumonia in pediatric patients.
 </h1>
 
 <h3 align="center"> 
-	🚀 building readme...
+	🚀 building...
 </h3>
 
 ### :computer: Features
@@ -18,7 +18,8 @@ Detection of pneumonia in pediatric patients.
 - [x] DAta Preprocessing;
 - [x] Deep Learning Model;
 - [x] Metrics Analysis;
-- [X] Grad-CAM Visualization.
+- [X] Grad-CAM Visualization;
+- [ ] Front-End.
 
 ### 🛠 Tools
 
