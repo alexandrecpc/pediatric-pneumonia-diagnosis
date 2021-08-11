@@ -1,4 +1,5 @@
-![badge](https://img.shields.io/badge/language-python-blueviolet)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
 # Pneumonia Detection
 Detection of pneumonia in pediatric patients.
 
