@@ -3,6 +3,8 @@
 # Pneumonia Detection
 Detection of pneumonia in pediatric patients.
 
+By: Victor Hugo Rocha de Oliveira and Raul Nascimento
+
 ## Grad CAM
 <h1 align="center">
   <img WIDTH=700 HEIGHT=240 alt="Grad CAM" title="#Grad CAM" src="src/assets/grad_normal.png" />
