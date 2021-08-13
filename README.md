@@ -1,9 +1,10 @@
-![badge](https://img.shields.io/badge/language-python-blueviolet)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
 # Pneumonia Detection
 Detection of pneumonia in pediatric patients.
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/cam_pneumonia.png" />
+  <img alt="Grad CAM" title="#Grad CAM" src="src/assets/cam_pneumonia.png" />
 </h1>
 
 <h3 align="center"> 
