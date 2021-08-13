@@ -3,13 +3,26 @@
 # Pneumonia Detection
 Detection of pneumonia in pediatric patients.
 
+## Grad CAM
 <h1 align="center">
-  <img alt="Grad CAM" title="#Grad CAM" src="src/assets/cam_pneumonia.png" />
+  <img WIDTH=700 HEIGHT=240 alt="Grad CAM" title="#Grad CAM" src="src/assets/grad_normal.png" />
 </h1>
 
-<h3 align="center"> 
-	🚀 building...
-</h3>
+<h1 align="center">
+  <img WIDTH=700 HEIGHT=240 alt="Grad CAM" title="#Grad CAM" src="src/assets/grad_pneumonia.png" />
+</h1>
+
+## Results
+
+<h1 align="center">
+  <img src="src/assets/resultados_chestxray.png" />
+</h1>
+
+## Workflow
+
+<h1 align="center">
+  <img src="src/assets/workflow.png" />
+</h1>
 
 ### :computer: Features
 
