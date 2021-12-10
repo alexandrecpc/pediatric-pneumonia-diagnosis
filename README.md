@@ -35,7 +35,6 @@ By: Victor Hugo Rocha de Oliveira and Raul Nascimento
 - [x] Deep Learning Model;
 - [x] Metrics Analysis;
 - [X] Grad-CAM Visualization;
-- [ ] Front-End.
 
 ### 🛠 Tools
 
